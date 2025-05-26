@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Danila!
 
-Welcome to my kitchen. 👨‍🍳
+>Welcome to my kitchen. 👨‍🍳
 
 ## ⚡ About Me
 
@@ -10,7 +10,6 @@ Welcome to my kitchen. 👨‍🍳
 ## ⚔ What I Work With
 
 - 🐍 **Python** Data, automation, ML - if it needs logic and elegance, I reach for Python.
-
 - 🗃️ **SQL** Structured, sharp, and unforgiving if you don’t respect it.
 - 💻 **C/C++** When performance matters. Also, when I feel like debugging with a blindfold on.
 - 👩‍💻 **Bash** For when I want to automate pain.
@@ -25,7 +24,7 @@ Welcome to my kitchen. 👨‍🍳
 
 ## 👽 Quote of the Month
 
-_“The master has failed more times than the beginner has even tried.”_
+>_“The master has failed more times than the beginner has even tried.”_
 
 ## 🌐 Connect with Me
 
