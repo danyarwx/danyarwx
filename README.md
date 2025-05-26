@@ -7,7 +7,7 @@
 - 🎓 Currently a student at **TUM University** (Technische Universität München), studying **Data Science and Management**.
 - 🤖 Also, I’m working at an **AI startup** developing a chatbot to simplify the wild world of trade compliance. If you think that's a mouthful, you should see our codebase. 
 
-## ⚔ What I Work With
+## ⚔ Skills
 
 - 🐍 **Python** Data, automation, ML - if it needs logic and elegance, I reach for Python.
 - 🗃️ **SQL** Structured, sharp, and unforgiving if you don’t respect it.
