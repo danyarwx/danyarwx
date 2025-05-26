@@ -14,7 +14,7 @@
 - 💻 **C/C++** When performance matters. Also, when I feel like debugging with a blindfold on.
 - 👩‍💻 **Bash** For when I want to automate pain.
 - 🌷 **HTML** Building high-converting pages.
-- ⚛️ **React** & 🟩 **Node.js** (Currently learning, so please excuse my React-ions)
+- ⚛️ **React** & **Node.js** (Currently learning, so please excuse my React-ions)
 - 🤹‍♂️ Always ready to pick up a new tech or debug an old one!
 
 ## 🚀 What I'm Working On
