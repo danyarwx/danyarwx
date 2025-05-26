@@ -28,5 +28,5 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dkzhukov) Message me if you're into AI, coding or business.
+- Message me on [LinkedIn](https://www.linkedin.com/in/dkzhukov) if you're into AI, coding or business.
 
