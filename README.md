@@ -22,8 +22,6 @@
 - Building a chatbot that makes trade compliance less terrifying.
 - Sharpening my frontend skills to make my projects both beautiful and functional.
 
-## 👽 Quote of the Month
-
 >_“The master has failed more times than the beginner has even tried.”_
 
 ## 🌐 Connect with Me
