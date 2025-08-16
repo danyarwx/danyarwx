@@ -3,7 +3,7 @@
 ## ⚡ About Me
 
 - 🎓 Currently a student at **TUM University** (Technische Universität München), studying **Data Science and Management**.
-- 🤖 Working at **AI startup AILOGI** developing a chatbot to simplify the world of trade compliance.
+- 🤖 Learning & building portfolio in Front-End development, networks, and machine learning.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danyarwx&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
