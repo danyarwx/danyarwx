@@ -1,4 +1,10 @@
+
 # Hi, I'm Danila!
+
+
+<div>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+</div>
 
 ## About Me
 
@@ -15,3 +21,5 @@
 
 - Message me on [LinkedIn](https://www.linkedin.com/in/dkzhukov) if you're into AI, coding or business.
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient" alt="header"/> 
