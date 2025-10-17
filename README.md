@@ -1,7 +1,7 @@
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&&color=0:00b4d8,100:9966cc" alt="header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=ffffff&width=435&lines=My+name+is+Danila+Zhukov.;This+is+my+portfolio.;Feel+free+to+reach+out.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=ffffff&width=435&lines=My+name+is+Danila+Zhukov.;This+is+my+portfolio.;Feel+free+to+reach+out!.)](https://git.io/typing-svg)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danyarwx)](https://github.com/anuraghazra/github-readme-stats)
 
