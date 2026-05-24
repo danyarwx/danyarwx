@@ -6,7 +6,7 @@
 ## About Me
 
 - Currently a student at **TUM University** (Technische Universität München), studying **Data Science and Management**.
-- Learning & building portfolio in Front-End development, networks, and machine learning.
+- Learning & building portfolio in software development and studying in **42 Heilbronn**.
 <!--
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
