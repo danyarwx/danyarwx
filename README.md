@@ -5,7 +5,7 @@
 
 ## About Me
 
-- Currently a student at **TUM University** (Technische Universität München), studying **Data Science and Management**.
+- Currently a student at **TUM** (Technische Universität München), studying **Data Science and Management**.
 - Learning & building portfolio in software development and studying in **42 Heilbronn**.
 <!--
 <div>
